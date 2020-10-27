@@ -12,20 +12,18 @@ I'm Garrett and I'm a software engineer. I'm originally from Hawaii🌊 but move
   <h3 align="center">Connect with me<img align="center" src="https://github.com/rajput2107/rajput2107/blob/master/Assets/Handshake.gif" height="33px" /></h3> 
 </div>
 <p align="center">
- <a href="https://www.linkedin.com/in/kapakahicoder/" target="blank">
+ <a href="https://www.linkedin.com/in/kapakahicoder/" target="_blank">
   <img align="center" width="30px" src="https://www.vectorlogo.zone/logos/linkedin/linkedin-icon.svg" /> &nbsp; &nbsp;
  </a>
- <a href="https://www.instagram.com/tropicalhawaiianday/" target="blank">
+ <a href="https://www.instagram.com/tropicalhawaiianday/" target="_blank">
   <img align="center" width="30px" src="https://www.vectorlogo.zone/logos/instagram/instagram-icon.svg" /> &nbsp; &nbsp;
  </a>
- <a href="https://twitter.com/KapakahiCoder" target="blank">
+ <a href="https://twitter.com/KapakahiCoder" target="_blank">
   <img align="center" width="30px" src="https://www.vectorlogo.zone/logos/twitter/twitter-official.svg" /> &nbsp; &nbsp;
  </a>
- <a href="mailto: garrettkchun@yahoo.com" target="blank">
+ <a href="mailto: garrettkchun@yahoo.com" target="_blank">
   <img align="center"width="30px" src="images/email.svg" />
  </a> 
   <br/>
   <br/>
   Thanks for stopping by 🌴<br>
-
-Icons made by <a href="http://www.freepik.com/" title="Freepik">Freepik</a> from <a href="https://www.flaticon.com/" title="Flaticon"> www.flaticon.com</a>
