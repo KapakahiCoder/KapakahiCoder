@@ -10,7 +10,9 @@ I'm Garrett and I'm a software engineer. I'm originally from Hawaii🌊 but move
 
 <hr>
 
-## More About Me
+## More About Me &nbsp;<img src="images/turtle.svg" width="32px" height="32px">
+
+<br>
 
 - Place I want to visit: &nbsp;<img src="images/france.svg" width="16px" height="16px"> France
 - What I want the most: &nbsp;🐱Cats, cats, and more cats
@@ -26,6 +28,7 @@ I'm Garrett and I'm a software engineer. I'm originally from Hawaii🌊 but move
 
 ## Jokes🤣
 
+<br>
 Q: Why did the programmar quit his job?
 
 A: Because he didn't get arrays.
