@@ -2,7 +2,7 @@
 
 <img src="images/pc-beach.jpg" align="right" width="200" height="160">
 
-I'm Garrett and I'm a software engineer. I'm originally from Hawaii🌊 but moved to Japan🗻 about 20 years ago. After a career in accounting🧾 and education🏫, I recently made the transition to the tech industry🖥️. I love learning new technologies and applying them to solve real-world🌎 problems. My journey🚀 as a developer is just beginning and I can't wait to see where it will take me. Please have a look👀 around my repos.
+I'm Garrett and I'm a software engineer. I'm originally from Hawaii🌊 but moved to Japan🗻 about 20 years ago. After a career in accounting🧾 and education🏫, I recently made the transition to the tech industry🖥️. I love learning new technologies and applying them to solve real-world🌎 problems. <p>My journey🚀 as a developer is just beginning and I can't wait to see where it will take me. Please feel free and have a look👀 at my repos.
 <br>
 <br>
 <br>
@@ -10,7 +10,7 @@ I'm Garrett and I'm a software engineer. I'm originally from Hawaii🌊 but move
 
 <hr>
 
-## More About Me &nbsp;<img src="images/turtle.svg" width="32px" height="32px">
+## More About Me &nbsp;<img src="images/turtle.svg" width="37px" height="37px">
 
 <br>
 
@@ -18,7 +18,7 @@ I'm Garrett and I'm a software engineer. I'm originally from Hawaii🌊 but move
 - What I want the most: &nbsp;🐱Cats, cats, and more cats
 - Pet Peeve:&nbsp; 😋Teachers who lick their fingers when passing out handouts
 - What I love most about coding:&nbsp; 🐛The joy you feel when figuring out a bug
-- Next tech I will learn: &nbsp;<img src="images/programming.svg" width="16px" height="16px">Typescript
+- Next tech I will learn: &nbsp;<img src="images/programming.svg" width="18px" height="18">Typescript
 - Favorite TV Show:&nbsp; 🧛Buffy the Vampire Slayer
 - What I want to become better at: &nbsp;📷Photography
 - Regret:&nbsp; <img src="images/ukulele.svg" width="16px" height="16px">Not practicing the ukulele more when I was a kid
