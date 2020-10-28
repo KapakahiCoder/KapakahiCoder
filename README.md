@@ -8,6 +8,30 @@ I'm Garrett and I'm a software engineer. I'm originally from Hawaii🌊 but move
 <br>
 <br>
 
+<hr>
+
+### Jokes🤣
+
+Q: Why did the programmar quit his job?
+
+A: Because he didn't get arrays.
+
+<div align="center">✨✨✨</div>
+
+Q: What language is most commonly used in programming?
+
+A: Profanity.
+
+<div align="center">✨✨✨</div>
+
+Q: How do you comfort a JavaScript bug?
+
+A: You _console_ it.
+
+<hr>
+<br>
+<br>
+
 <div align="center">
   <h3 align="center">Connect with me</h3> 
 </div>
