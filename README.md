@@ -16,7 +16,7 @@ Q: Why did the programmar quit his job?
 
 A: Because he didn't get arrays.
 
-<div>                ✨✨✨</div>
+<div>     <pre>               ✨✨✨</pre></div>
 <br>
 Q: What language is most commonly used in programming?
 
