@@ -2,7 +2,7 @@
 
 <img src="images/pc-beach.jpg" align="right" width="280" height="280">
 
-I'm Garrett and I'm a software engineer. I'm originally from Hawaii🌊 but moved to Japan🗻 about 20 years ago. After a career in accounting🧾 and education🏫, I recently made the transition to the tech industry🖥️. I love learning new technologies and applying them to solve real-world🌎 problems. <p>My journey🚀 as a developer is just beginning and I can't wait to see where it will take me. Please feel free and have a look👀 at my repos.
+I'm Garrett and I'm a software engineer<img src="images/engineer.svg" width="17px" height="17px">. I'm originally from Hawaii🌊 but moved to Japan🗻 about 20 years ago. After a career in accounting🧾 and education🏫, I recently made the transition to the tech industry🖥️. I love learning new technologies and applying them to solve real-world🌎 problems. <p>My journey🚀 as a developer is just beginning and I can't wait to see where it will take me. <p>Please feel free and have a look👀 at my repos.
 <br>
 <br>
 <br>
