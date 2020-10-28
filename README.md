@@ -16,13 +16,13 @@ Q: Why did the programmar quit his job?
 
 A: Because he didn't get arrays.
 
-<div>     <pre>               ✨✨✨</pre></div>
+<div>&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;✨✨✨✨✨</div>
 <br>
 Q: What language is most commonly used in programming?
 
 A: Profanity.
 
-<div>              ✨✨✨</div>
+<div>&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;✨✨✨✨✨</div>
 <br>
 
 Q: How do you comfort a JavaScript bug?
