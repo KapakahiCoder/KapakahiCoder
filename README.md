@@ -6,7 +6,6 @@ I'm Garrett and I'm a software engineer<img src="images/engineer.svg" width="17p
 <br>
 <br>
 <br>
-<br>
 
 <hr>
 
@@ -46,7 +45,6 @@ Q: How do you comfort a JavaScript bug?
 A: You _console_ it.
 
 <hr>
-<br>
 
 <div align="center">
   <h3 align="center">Connect with me</h3> 
