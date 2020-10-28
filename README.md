@@ -25,7 +25,7 @@ I'm Garrett and I'm a software engineer<img src="images/engineer.svg" width="17p
 
 <hr>
 
-## Jokes🤣
+## Jokes &nbsp;<img src="images/laugh.svg" width="32px" height="32px">
 
 <br>
 Q: Why did the programmar quit his job?
