@@ -16,11 +16,13 @@ I'm Garrett and I'm a software engineer. I'm originally from Hawaii🌊 but move
 - What I want the most: &nbsp;🐱Cats, cats, and more cats
 - Pet Peeve:&nbsp; 😋Teachers who lick their fingers when passing out handouts
 - What I love most about coding:&nbsp; 🐛The joy you feel when figuring out a bug
+- Next tech I will learn: &nbsp;<img src="images/programming.svg" width="16px" height="16px">Typescript
 - Favorite TV Show:&nbsp; 🧛Buffy the Vampire Slayer
 - What I want to become better at: &nbsp;📷Photography
 - Regret:&nbsp; <img src="images/ukulele.svg" width="16px" height="16px">Not practicing the ukulele more when I was a kid
 
 <hr>
+<br>
 
 ## Jokes🤣
 
