@@ -1,4 +1,4 @@
-<h1 align="center"> Aloha! <img src="images/shaka.gif" width="50px" height="40px"></h1>
+<h1 align="center"> Aloha! <img src="images/shaka.gif" width="60px" height="60px"></h1>
 
 <img src="images/pc-beach.jpg" align="right" width="200" height="160">
 
