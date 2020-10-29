@@ -14,7 +14,7 @@ I'm Garrett and I'm a software engineer<img src="images/engineer.svg" width="17p
 <br>
 
 - **Place I want to visit:** &nbsp;<img src="images/france.svg" width="16px" height="16px"> France
-- \***\*What I want the most:** &nbsp;🐱Cats, cats, and more cats
+- **What I want the most:** &nbsp;🐱Cats, cats, and more cats
 - **Pet Peeve:**&nbsp; 😋Teachers who lick their fingers when passing out handouts
 - **What I love most about coding:**&nbsp; 🐛The joy you feel when figuring out a bug
 - **Next tech I will learn:** &nbsp;<img src="images/programming.svg" width="18px" height="18">Typescript
@@ -27,20 +27,20 @@ I'm Garrett and I'm a software engineer<img src="images/engineer.svg" width="17p
 ## Jokes &nbsp;<img src="images/laugh.svg" width="32px" height="32px">
 
 <br>
-Q: Why did the programmar quit his job?
+Q: Why did the programmar quit his job? <br>
 <br>
 A: Because he didn't get arrays.
 
 <div>&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;✨✨✨✨✨</div>
 <br>
-Q: What language is most commonly used in programming?
+Q: What language is most commonly used in programming?<br>
 <br>
 A: Profanity.
 
 <div>&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;✨✨✨✨✨</div>
 <br>
 
-Q: How do you comfort a JavaScript bug?
+Q: How do you comfort a JavaScript bug?<br>
 <br>
 A: You _console_ it.
 
