@@ -29,14 +29,14 @@ I'm Garrett and I'm a software engineer<img src="images/engineer.svg" width="17p
 <br>
 Q: Why did the programmar quit his job? <br>
 <br>
-A: Because he didn't get arrays.
-
+A: Because he didn't get arrays.<br>
+<br>
 <div>&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;✨✨✨✨✨</div>
 <br>
 Q: What language is most commonly used in programming?<br>
 <br>
-A: Profanity.
-
+A: Profanity.<br>
+<br>
 <div>&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;✨✨✨✨✨</div>
 <br>
 
